@@ -38,3 +38,5 @@ This C++ program, named "Game_of_life," is an implementation of Conway's Game of
 
        g++ Game.cpp -lGL -lGLU -lglut
 
+![ezgif com-gif-maker](https://github.com/StefanIv21/Conway-s-Game-of-Life/assets/94042909/52c680e8-2f60-42ee-858c-5bed039127fc)
+
