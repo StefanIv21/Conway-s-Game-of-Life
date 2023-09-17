@@ -28,3 +28,13 @@ This C++ program, named "Game_of_life," is an implementation of Conway's Game of
 ## Main Function:
  - The main function initializes GLUT, sets up the window, and enters the main event loop.
 - It also sets up callback functions for keyboard and mouse input.
+
+## Compilation
+
+- In case you dont have glut installed previously
+
+        sudo apt-get install freeglut3-dev
+- then
+
+       g++ Game.cpp -lGL -lGLU -lglut
+
